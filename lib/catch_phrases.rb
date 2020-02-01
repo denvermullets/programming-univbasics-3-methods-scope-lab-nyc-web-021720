@@ -10,6 +10,9 @@ def toadstool
   puts $status
 end
 
+def link
+  phrase = "It's D"
+
 def any_phrase ( phrase = "Do A Barrel Roll!" )
   puts phrase
 end
